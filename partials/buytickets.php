@@ -16,14 +16,14 @@
             </div>
             <div class="buy-tickets-right row-col">
                 <div class="cpp-b_only-desktop">
-                    <a href="https://c-user-group-russia.timepad.ru/event/407033/" data-twf-placeholder="yes">Перейтик заказу билетов</a>
+                    <a href="https://c-user-group-russia.timepad.ru/event/483848/" data-twf-placeholder="yes">Перейтик заказу билетов</a>
                     <script type="text/javascript" defer="defer" charset="UTF-8" data-timepad-customized="24933"
-                        data-twf2s-event--id="407033" data-timepad-widget-v2="event_register"
+                        data-twf2s-event--id="483848" data-timepad-widget-v2="event_register"
                         src="https://timepad.ru/js/tpwf/loader/min/loader.js">
                         (function() {
                             return {
                                 "loadCSS": [
-                                    "http://2017.cppconf.ru/app/build/css/timepad.css"
+                                    "http://siberia-2017.cppconf.ru/app/build/css/timepad.css"
                                 ],
                                 "skipBaseCSS": true,
                                 "disableBootstrap": true
@@ -32,7 +32,7 @@
                     </script>
                 </div>
                 <div class="cpp-b_only-mobile">
-                    <a style="display: block;    margin: 0 auto;" class="cpp-e_green-button" href="https://c-user-group-russia.timepad.ru/event/407033/">Купить билет</a>
+                    <a style="display: block;    margin: 0 auto;" class="cpp-e_green-button" href="https://c-user-group-russia.timepad.ru/event/483848/">Купить билет</a>
                 </div>
             </div>
         </div>
