@@ -11,6 +11,7 @@ if (window.google) {
         scrollwheel: false,
         zoom: 17
     });
+
     let marker = new google.maps.Marker({
         map: map,
         icon: "http://2017.cppconf.ru/app/frontend/template/google-marker.png",
@@ -19,7 +20,7 @@ if (window.google) {
 }
 
 window.addEventListener("scroll", function (event) {
-   let scrollY = document.body.scrollTop || window.scrollY || window.pageYOffset;
+    let scrollY = document.body.scrollTop || window.scrollY || window.pageYOffset;
 
     if (scrollY > document.querySelector(".cpp-b_main-menu").offsetTop || 0) {
         document.querySelector(".responsive-head").classList.add("fixed");
