@@ -6,13 +6,16 @@
             Gold спонсоры
         </h2>
         <div class="cpp-b_sponsors cpp-b_responsive-row-cols">
-            <!-- -->
+            <!--
             <div class="sponsor row-col">
                 <a href="https://yandex.ru/company/"><img src="/app/frontend/template/partners/yandex_logo.png" alt=""></a>
             </div>
-            <!-- -->
+             -->
             <div class="sponsor row-col">
                 <a href="https://infotecs.ru/"><img src="/app/frontend/template/partners/infotecs_logo.png" alt=""></a>
+            </div>           
+             <div class="sponsor row-col">
+                <a href="http://www.tsu.ru/"><img src="/app/frontend/template/partners/tsu_logo.png" alt=""></a>
             </div>           
  	   <!-- -->
         </div>
