@@ -39,7 +39,7 @@
             <div class="buy-tickets-left row-col">
                 <a name="tickets" class="cpp-e_hash-link"></a>
                 <h2 class="cpp-e_block-title">
-                    Купить билет на масетр-класс
+                    Купить билет на мастер-класс
                 </h2>
                 <div class="online">
                     <img src="/app/frontend/template/elem-buy-tickets.svg" alt="">
