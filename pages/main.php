@@ -84,17 +84,23 @@
                     Контакты
                 </h2>
                 <div class="cpp-b_block-text">
+                    <p style="margin-bottom: 2rem;">ООО "Спп Раша"<br>
+													ИНН 5310021183</p>
+                    <div class="cpp-b_contacts">
+						<div class="cpp-e_contact phone">
+							+7 (905) 292-77-13
+						</div>
+						<div class="cpp-e_contact email">
+							<a href="mailto:conf@cpp-russia.ru">conf@cpp-russia.ru</a>
+						</div>
+					</div>
+                </div>
+
+                <div class="cpp-b_block-text">
                     <p style="margin-bottom: 2rem;">Место проведения: Томский государственный университет</p>
                     <p>Если у Вас есть вопросы,<br>их можно задать по телефону или почте </p>
                 </div>
-                <div class="cpp-b_contacts">
-                    <div class="cpp-e_contact phone">
-                        +7 (905) 292-77-13
-                    </div>
-                    <div class="cpp-e_contact email">
-                        <a href="mailto:conf@cpp-russia.ru">conf@cpp-russia.ru</a>
-                    </div>
-                </div>
+   
             </div>
             <div class="row-col">
                 <div class="cpp-b_map">
