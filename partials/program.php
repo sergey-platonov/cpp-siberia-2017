@@ -38,16 +38,16 @@
                     <td>Continuous integration для C++ разработчика I</td>
                 </tr>
                 <tr class="gray">
-                    <td>12:00 - 12:45</td>
+                    <td>12:00 - 12:30</td>
                     <td colspan="4">Кофе-брейк</td>
                 </tr>
                 <tr>
-                    <td>12:45 - 14:45</td>
+                    <td>12:30 - 14:30</td>
                     <td>Applied functional programming in C++ II</td>
                     <td>Continuous integration для C++ разработчика II</td>
                 </tr>
                 <tr class="gray">
-                    <td>14:45 - 16:00</td>
+                    <td>14:30 - 16:00</td>
                     <td colspan="4">Обед</td>
                 </tr>
                 <tr>
