@@ -7,7 +7,7 @@
 * Monads: coroutines in C++ as a special syntax for handling monads
 * Implementing programs without mutable state
 
-Here is a <ahref=https://yadi.sk/d/2DO2E5N-3MFKXn>VirtualBox image</a> with the latest GCC and Clang so that we have the same environment when working. 
+Here is a <a href=https://yadi.sk/d/2DO2E5N-3MFKXn>VirtualBox image</a> with the latest GCC and Clang so that we have the same environment when working. 
 Otherwise, the prerequisites would be the latest released GCC, Clang and Qt (just in case).
 
 As for the knowledge, it is enough to say it is for C++ professionals - so not for beginners. 
