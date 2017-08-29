@@ -6,4 +6,5 @@
 	<li>Контейнеры, диапазоны, алгоритмы</li>
 	<li>Паттерны проектирования в функциональном стиле</li>
 </ul>
-<iframe src="https://pro.ispringcloud.ru/acc/8gSlStAyNjA2/view/2606-p0qD3-fe1cK-HKqE7/embedded?from=embed&amp;fit=1" border="0" scrolling="auto" allowtransparency="true" allowfullscreen="1" style="border: medium none; background-color: transparent; width: 800px; height: 600px;" frameborder="0"></iframe>
+[Открыть презентацию в отдельном окне](https://ispri.ng/YNnR3)
+<iframe src="https://pro.ispringcloud.com/acc/dtZuwu8zNjM/view/363-K180m-pjnaq-tXeFY/embedded?from=embed&amp;fit=1" border="0" scrolling="auto" allowtransparency="true" allowfullscreen="1" style="border: medium none; background-color: transparent; width: 800px; height: 520px;" frameborder="0"></iframe>
