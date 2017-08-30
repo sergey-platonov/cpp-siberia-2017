@@ -1,1 +1,3 @@
 В C++17 было добавлено очень много всего нового. За два часа я подробно расскажу о (почти) всех новых фичах и о том, как они упростят жизнь рядового разработчика. Мы подробно взглянем на structured bindings, template argument deduction, constexpr if, std::filesystem, std::string_view, и на другие нововведения. 
+
+<iframe src="https://pro.ispringcloud.com/acc/dtZuwu8zNjM/view/363-ijQLo-C55Ai-9iE4g/embedded?from=embed&amp;fit=1" border="0" scrolling="auto" allowtransparency="true" allowfullscreen="1" style="border: medium none; background-color: transparent; width: 800; height: 690;" frameborder="0"></iframe>
